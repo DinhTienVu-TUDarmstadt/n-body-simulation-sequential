@@ -1,0 +1,26 @@
+# ninja log v6
+14	746	7542747851043359	source/CMakeFiles/lab_lib.dir/image/bitmap_image.cpp.obj	f9e8b63893b7c9a6
+23	783	7542747851133362	source/CMakeFiles/lab_lib.dir/structures/vector2d.cpp.obj	386ea4b645b35499
+18	952	7542747851093364	source/CMakeFiles/lab_lib.dir/structures/universe.cpp.obj	bd4f6f34021cb991
+27	1407	7542747851183368	source/CMakeFiles/lab_lib.dir/structures/bounding_box.cpp.obj	81aa96046f149c1f
+32	1795	7542747851234103	source/CMakeFiles/lab_lib.dir/input_generator/random_universe.cpp.obj	9f5deb598244375
+43	1816	7542747851344108	source/CMakeFiles/lab_lib.dir/input_generator/random_universe_with_supermassive_blackhole.cpp.obj	baf64eb1b7d6c5f4
+38	1827	7542747851294116	source/CMakeFiles/lab_lib.dir/input_generator/earth_orbit.cpp.obj	c2f0dfdb13ac1040
+62	1866	7542747851534130	source/CMakeFiles/lab_lib.dir/plotting/universe.cpp.obj	67e5eaadb9dc3156
+76	1886	7542747851674099	test_lab1/CMakeFiles/lab1_test.dir/__/test_get_path.cpp.obj	91604c22ab38bbfb
+9	2060	7542747850993357	source/CMakeFiles/lab_lib.dir/io/image_parser.cpp.obj	bc7c5d71618fc762
+56	2117	7542747851464102	source/CMakeFiles/lab_lib.dir/plotting/plotter.cpp.obj	617845a8a3b53389
+89	2758	7542747851794858	test_lab1/CMakeFiles/lab1_test.dir/test.cpp.obj	9e5fa96c876bc418
+753	3001	7542747858432566	test_lab1/CMakeFiles/lab1_test.dir/test_vector2d.cpp.obj	438a4c7d8fe6d6f3
+784	3102	7542747858752535	test_lab1/CMakeFiles/lab1_test.dir/test_bounding_box.cpp.obj	b43bffb5f3f5ab6d
+952	3231	7542747860426405	test_lab1/CMakeFiles/lab1_test.dir/test_plotting.cpp.obj	d78e9dff19044aaa
+1407	3711	7542747864983221	test_lab1/CMakeFiles/lab1_test.dir/test_simulation.cpp.obj	a184bcdbc20d9403
+70	8406	7542747851604119	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	22f1688035aca7fb
+17	2149	7542749648676461	test_lab1/CMakeFiles/lab1_test.dir/test_simulation.cpp.obj	a184bcdbc20d9403
+21	2840	7542749648727448	lib/libgtest.a	a07049f7b2d16eb
+19	833	7542749854463893	source/CMakeFiles/lab_lib.dir/simulation/naive_sequential_simulation.cpp.obj	f36bdda850285964
+833	958	7542749862611541	source/liblab_lib.a	250629aea603e2e
+958	3984	7542749863862738	bin/lab1_test.exe	324662aacb9d7f1f
+20	1160	7542750566982289	source/CMakeFiles/lab_lib.dir/simulation/naive_sequential_simulation.cpp.obj	f36bdda850285964
+1161	1287	7542750578400666	source/liblab_lib.a	250629aea603e2e
+1287	4436	7542750579660645	bin/lab1_test.exe	324662aacb9d7f1f
