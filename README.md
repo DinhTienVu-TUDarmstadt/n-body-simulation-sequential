@@ -17,7 +17,3 @@ The simulation calculates the gravitational interactions between bodies using a 
 - CMake (optional, for building)
 - SDL2 (if visualization is included)
 
-### **💻 Build & Run**
-```sh
-g++ -o nbody main.cpp -std=c++11
-./nbody
